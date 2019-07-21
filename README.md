@@ -4,7 +4,7 @@ The Little Schemer in PHP
 2. [Do It, Do It Again, and Again, and Again...](//whitephp.net/2018/05/03/the-little-phper-2-do-it-again-and-again.html)
 3. [Cons the Magnificent](//whitephp.net/2018/05/05/the-little-phper-3-cons-the-magnificent.html)
 4. [Numbers Games](//whitephp.net/2018/05/11/the-little-phper-4-numbers-games.html)
-5. [*Oh My Gawd*: It's Full of Stars](//whitephp.net/2018/05/12/the-little-phper-5-oh-my-gawd-full-of-stars.html)
+5. [&ast;Oh My Gawd&ast;: It's Full of Stars](//whitephp.net/2018/05/12/the-little-phper-5-oh-my-gawd-full-of-stars.html)
 6. [Shadows](//whitephp.net/2018/05/20/the-little-phper-6-Shadows.html)
 7. [Friends and Relations](//whitephp.net/2018/06/02/the-little-phper-7-friends-and-relations.html)
 8. [Lambda the Ultimate](//whitephp.net/2018/06/23/the-little-phper-8-lambda-the-ultimate.html)
