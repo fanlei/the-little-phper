@@ -109,7 +109,7 @@ function initial_table
 }
 
 function _identifier
-($e, array $table) 
+($e, array $table)
 {return
     lookup_in_table($e, $table, 'initial_table');
 }
