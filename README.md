@@ -10,3 +10,5 @@ The Little Schemer in PHP
 8. [Lambda the Ultimate](//whitephp.net/2018/06/23/the-little-phper-8-lambda-the-ultimate.html)
 9. [... and Again, and Again, and Again, ...](//whitephp.net/2018/07/02/the-little-phper-9-and-again-and-again.html)
 10. [What Is the Value of All of This?](//whitephp.net/2018/09/08/the-little-phper-10-what-is-the-value-of-all-of-this.html)
+
+<img src="https://whitephp.net/assets/value_activity.svg" alt="Activity diagram of the interpreter: value">
